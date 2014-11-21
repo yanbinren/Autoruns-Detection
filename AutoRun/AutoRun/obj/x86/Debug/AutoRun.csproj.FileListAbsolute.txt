@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2010\Projects\AutoRun\AutoRun\bin\Debug\AutoRun.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\AutoRun\AutoRun\bin\Debug\AutoRun.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\AutoRun\AutoRun\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2010\Projects\AutoRun\AutoRun\obj\x86\Debug\AutoRun.AutoRun.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\AutoRun\AutoRun\obj\x86\Debug\AutoRun.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\AutoRun\AutoRun\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\lenovo\documents\visual studio 2010\Projects\AutoRun\AutoRun\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\lenovo\documents\visual studio 2010\Projects\AutoRun\AutoRun\obj\x86\Debug\AutoRun.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\AutoRun\AutoRun\obj\x86\Debug\AutoRun.pdb
